@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'herokulogs'
+
+cli = Herokulogs::CLI.new
+cli.run!
+
